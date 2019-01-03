@@ -1,1 +1,2 @@
 # resources
+articles, recordings, people
